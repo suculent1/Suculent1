@@ -1,13 +1,17 @@
 # 👋 Welcome to My Cybersecurity Hub
 
----
 ![1730429457842](https://github.com/user-attachments/assets/f765bef3-6d2c-4dca-8624-a07cc23abcbd)
-
 
 ---
 
 # Vincent Ukor  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;Systems+Analyst;Strengthening+Cybersecurity+Posture)](https://git.io/typing-svg)
+
+---
+
+## 👤 About Me
+
+I am a passionate cybersecurity professional with a strong interest in emerging technologies and their security implications. I am always eager to learn and explore new ways to protect systems and data from cyber threats.
 
 ---
 
