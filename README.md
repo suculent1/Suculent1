@@ -5,7 +5,7 @@
 ---
 
 # Vincent Ukor  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;Systems+Analyst;Strengthening+Cybersecurity+Posture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;Systems+Analyst;Cybersecurity+Expert)](https://git.io/typing-svg)
 
 ---
 
